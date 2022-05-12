@@ -1,8 +1,8 @@
-PRINTF
+# PRINTF
 
-TEAMWORK RELOADED
+# TEAMWORK RELOADED
 
-Concepts
+# Concepts
 
 For this project, students are expected to look at these concepts:
 
@@ -11,24 +11,24 @@ For this project, students are expected to look at these concepts:
     Flowcharts
     Technical Writing
 
-Background Context
+# Background Context
 
 Write your own printf function.
 
-Resources
+# Resources
 
-Read or watch:
+# Read or watch:
 
     Secrets of printf
     Group Projects concept page (Don’t forget to read this)
     Flowcharts concept page
 
-man or help:
+# man or help:
 
     printf (3)
 
-Requirements
-General
+# Requirements
+# General
 
     Allowed editors: vi, vim, emacs
     All your files will be compiled on Ubuntu 20.04 LTS using gcc, using the options -Wall -Werror -Wextra -pedantic -std=gnu89
@@ -43,8 +43,8 @@ General
     All your header files should be include guarded
     Note that we will not provide the _putchar function for this project
 
-More Info
-Authorized functions and macros
+# More Info
+# Authorized functions and macros
 
     write (man 2 write)
     malloc (man 3 malloc)
@@ -54,7 +54,7 @@ Authorized functions and macros
     va_copy (man 3 va_copy)
     va_arg (man 3 va_arg)
 
-Compilation
+# Compilation
 
     Your code will be compiled this way:
 
